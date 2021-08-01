@@ -1,6 +1,6 @@
 # Astronyia <img src="https://cdn.discordapp.com/emojis/693666312307736577.gif?v=1" width="30px">
 
-[![Header](https://cdn.discordapp.com/icons/838039456677494804/6e0f96faeaf42ddb16d1e0ac63995d59.png?size=4096 "Header")](https://skid-hub.com)
+[![Header](https://cdn.discordapp.com/icons/870331150281875497/a_7364d4e45b99bbe47b758b4ccac0719a.gif?size=4096 "Header")](https://skid-hub.com)
 
 <!--
 **ToxicStuff/ToxicStuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
