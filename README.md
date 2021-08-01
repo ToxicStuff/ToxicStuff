@@ -1,4 +1,3 @@
-# Astronyia <img src="https://cdn.discordapp.com/emojis/693666312307736577.gif?v=1" width="30px">
 
 [![Header](https://cdn.discordapp.com/icons/870331150281875497/a_7364d4e45b99bbe47b758b4ccac0719a.gif?size=4096 "Header")](https://skid-hub.com)
 
