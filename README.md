@@ -1,2 +1,2 @@
-# Astronyia - https://discord.gg/fZD2gNbrfd
-[![Header](https://cdn.discordapp.com/icons/870331150281875497/a_7364d4e45b99bbe47b758b4ccac0719a.gif?size=4096 "Header")](https://skid-hub.com)
+
+[![Header](https://cdn.discordapp.com/attachments/795072867704242187/899800081589469184/XoXLogo.jpg "Header")]
