@@ -4,6 +4,12 @@
 </p>
  
 <h1 align="center">Current Stats</h1>
+<p align="center">
+<a href="https://github.com/ToxicStuff">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicStuff&layout=compact&count_private=true&theme=midnight-purple" />
+</a>
+</p>
+
 <br>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ToxicStuff&count_private=true&theme=midnight-purple" />
