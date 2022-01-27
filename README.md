@@ -1,2 +1,6 @@
 <h1 align="center">Current Main Project</h1>
-![Header](https://cdn.discordapp.com/attachments/795072867704242187/899800081589469184/XoXLogo.jpg "Header")
+<br>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ToxicStuff&count_private=true&theme=midnight-purple" />
+</p>
+<br>
