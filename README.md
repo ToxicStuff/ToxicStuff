@@ -1,4 +1,7 @@
 <a href="https://youtu.be/AaHCAGWFKgQ" target="_blank"> <img src="https://i.ibb.co/zGxvGmV/New-Banna.png" alt="ToxicStuff lesgo"/></a>
+```sh-session
+Decider <3
+```
 
 😶・**Client Only for Friends**
 😇・**What should i do?**
