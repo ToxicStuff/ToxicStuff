@@ -2,9 +2,9 @@
 
 😶・**Client Only for 370€**
 
-❤️・**~ S**
+❤️・~ S
 
-😇・**~ Decider**
+😇・~ Decider
 
 😵・**Did you know most Clients are Skidded? (From Knah lol)**
 
